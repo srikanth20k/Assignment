@@ -1,0 +1,6 @@
+requests
+flask
+dotenv
+os 
+pandas # future requirments
+numpy # 
